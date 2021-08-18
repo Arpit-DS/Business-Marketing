@@ -25,4 +25,6 @@ The precision of Model for Class1(0.63) > Class 0(0.36) & Class 2(0.57) which sa
 2. In this scenario we want our assumptions to be more correct rather than false negatives and true negative( i.e we want to be more confident in our decisions so based on True Positive rates we can see 80% True Positive Scores.). Though it would also depend on customer behaviour and other demographic and social factors.
 3. Also the Recall Score of Class 1 Group is better than other two group which says (False Positive better than False Negative).
 
-Suggestion: Should perform A/B Testing.
+Suggestion: Should perform A/B Testing.<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
+![Machine Learning](https://img.shields.io/badge/Supervised-Classification-orange)
